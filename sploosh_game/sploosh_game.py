@@ -1,3 +1,4 @@
+# Recovery
 import random
 from .variables import board_size, ship_sizes, empty, hit, miss, revealed_ship, ship
 
